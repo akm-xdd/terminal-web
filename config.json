@@ -1,0 +1,39 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/akm-xdd/akm-xdd/master/README.md",
+  "title": "AKM's Web",
+  "name": "Anand Kumar Mishra",
+  "ascii": "AKM",
+  "social": {
+    "github": "akm-xdd",
+    "linkedin": "akm-glhf"
+  },
+  "email": "ctfu.anand@outlook.com",
+  "ps1_hostname": "akm-xdd",
+  "ps1_username": "visitor",
+  "repo": "https://github.com/akm-xdd",
+  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "donate_urls": {
+    "paypal": "https://paypal.me/cveinnt",
+    "patreon": "https://patreon.com/cveinnt"
+  },
+  "colors": {
+    "light": {
+      "background": "#FFFFDB",
+      "foreground": "#282a36",
+      "yellow": "#ffb86c",
+      "green": "#50fa7b",
+      "gray": "#8B6BB9",
+      "blue": "#67AFC0",
+      "red": "#ff5555"
+    },
+    "dark": {
+      "background": "#1e1f29",
+      "foreground": "#f8f8f2",
+      "yellow": "#f1fa8c",
+      "green": "#50fa7b",
+      "gray": "#bd93f9",
+      "blue": "#8be9fd",
+      "red": "#ff5555"
+    }
+  }
+}
