@@ -1,7 +1,7 @@
 # terminal-web
 Terminal Themed Portfolio website inspired from LiveTerm. Original source code provided by LiveTerm.
 
-Visit here: https://anand-on-web.vercel.app/
+Visit here: https://akm-xdd.tech or  https://anand-on-web.vercel.app/
 
 The website is not responsive and offers best experience on desktop devices only.
 Feel free to clone and create your own. 
